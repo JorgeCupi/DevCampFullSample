@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RESTSampleOne.View.DetailPage">
+  <StackLayout>
+    <Label Text="Bienvenido a DevCamp!" FontSize="32"/>
+    <Label Text="Esta es una App hecha en Xamarin Forms" 
+           FontSize="32"/>
+  </StackLayout>
+</ContentPage>
